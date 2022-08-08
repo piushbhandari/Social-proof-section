@@ -72,6 +72,7 @@ body {
   bottom: 0rem;
   right: 0;
 }
+
 .main {
   max-width: 111rem;
 }
@@ -242,6 +243,7 @@ body {
     text-align: center;
   }
 } */
+
 @media all and (max-width: 375px) {
   .main__title {
     font-size: 3.2rem;
